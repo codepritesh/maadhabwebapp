@@ -1,0 +1,70 @@
+
+			<div class="table-responsive">
+                  <table class="table table-striped table-dark">
+
+                                            <thead>
+                                <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">First</th>
+                                <th scope="col">Last</th>
+                                <th scope="col">Handle</th>
+                                 <th scope="col">#</th>
+                                <th scope="col">First</th>
+                                <th scope="col">Last</th>
+                                <th scope="col">Handle</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                <th scope="row">1</th>
+                                <td>Mark</td>
+                                <td>Otto</td>
+                                <td>@mdo</td>
+                                </tr>
+                                <tr>
+                                <th scope="row">2</th>
+                                <td>Jacob</td>
+                                <td>Thornton</td>
+                                <td>@fat</td>
+                                </tr>
+                                <tr>
+                                <th scope="row">3</th>
+                                <td>Larry</td>
+                                <td>the Bird</td>
+                                <td>@twitter</td>
+                                </tr>
+                            </tbody>
+    
+                                </table>
+            </div>
+
+
+<!-- tableodisha -->
+
+			<div class="bg-dark ">
+			<a class="btn btn-success  btn-block" href="odishaimg.html" role="button" target="_blank"><h4>Odisha</h4p></a>
+                  <img src="images/cycle1.png" class="img-fluid" alt="Responsive image">
+            <a class="btn  btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSfUY42-C77iUdxvFIDpldwOQFm3ityUjD0904CXvHGlTatCow/viewform?usp=sf_link" role="button" target="_blank"><h4>Apply using maadhab services</h4p></a>
+            </div>
+
+
+
+
+<!-- tableodisha -->
+
+
+
+
+
+<!-- jobtable -->
+
+			<div class="bg-dark ">
+			<a class="btn btn-success  btn-block" href="andhra.html" role="button" target="_blank"><h4>Andhra pradesh</h4p></a>
+                  <img src="images/andhra.png" class="img-fluid" alt="Responsive image">
+            <a class="btn  btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSfUY42-C77iUdxvFIDpldwOQFm3ityUjD0904CXvHGlTatCow/viewform?usp=sf_link" role="button" target="_blank"><h4>Apply using maadhab services</h4p></a>
+            </div>
+
+
+
+
+<!-- jobtable -->
